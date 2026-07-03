@@ -1,0 +1,195 @@
+{
+  "nodes": [
+    {
+      "id": "node_22810bcbd211",
+      "label": "Malaria",
+      "type": "Disease"
+    },
+    {
+      "id": "node_a2694bc1f355",
+      "label": "Ethiopia",
+      "type": "Location"
+    },
+    {
+      "id": "node_783eab822c19",
+      "label": "IRS Program",
+      "type": "Program"
+    },
+    {
+      "id": "node_894de210befc",
+      "label": "Health Extension Program",
+      "type": "Program"
+    },
+    {
+      "id": "node_a4f87a164a86",
+      "label": "Ministry of Health",
+      "type": "Stakeholder"
+    },
+    {
+      "id": "node_af3fcc20cd58",
+      "label": "vector control",
+      "type": "Program"
+    },
+    {
+      "id": "node_5a66016c9373",
+      "label": "Case Management",
+      "type": "Program"
+    },
+    {
+      "id": "node_a88456c71bc8",
+      "label": "health post",
+      "type": "Stakeholder"
+    },
+    {
+      "id": "node_2dc573d6f077",
+      "label": "RDT Diagnostics",
+      "type": "Program"
+    },
+    {
+      "id": "node_be66ca4c0a00",
+      "label": "Amhara",
+      "type": "Location"
+    },
+    {
+      "id": "node_801a9da17e7c",
+      "label": "Oromia",
+      "type": "Location"
+    },
+    {
+      "id": "node_037307f5e74f",
+      "label": "Plasmodium vivax",
+      "type": "Disease"
+    },
+    {
+      "id": "node_ffde25b566f6",
+      "label": "World Health Organization",
+      "type": "Stakeholder"
+    },
+    {
+      "id": "node_454c0a5640e6",
+      "label": "insecticide resistance",
+      "type": "Program"
+    },
+    {
+      "id": "node_dbc49f2b9af4",
+      "label": "Gambella",
+      "type": "Location"
+    },
+    {
+      "id": "node_982c68481a04",
+      "label": "Southwest Ethiopia",
+      "type": "Location"
+    },
+    {
+      "id": "node_4bdfa73dcc80",
+      "label": "Plasmodium falciparum",
+      "type": "Disease"
+    },
+    {
+      "id": "node_0497bfcad097",
+      "label": "Meinit Goldia",
+      "type": "Location"
+    },
+    {
+      "id": "node_c10faca36f5b",
+      "label": "South Ethiopia",
+      "type": "Location"
+    },
+    {
+      "id": "node_1b2b3aae5035",
+      "label": "LLIN Program",
+      "type": "Program"
+    },
+    {
+      "id": "node_e47341a1d5bd",
+      "label": "Jabi Tehnan",
+      "type": "Location"
+    },
+    {
+      "id": "node_2f84ce4ea2de",
+      "label": "central Ethiopia",
+      "type": "Location"
+    },
+    {
+      "id": "node_41672f7d8c6f",
+      "label": "Addis Ababa",
+      "type": "Location"
+    },
+    {
+      "id": "node_111fa7773cce",
+      "label": "Uganda",
+      "type": "Location"
+    },
+    {
+      "id": "node_376a7aaec962",
+      "label": "health center",
+      "type": "Stakeholder"
+    }
+  ],
+  "edges": [
+    {
+      "from": "node_894de210befc",
+      "to": "node_22810bcbd211",
+      "type": "TARGETS",
+      "source_name": "Health Extension Program",
+      "target_name": "Malaria",
+      "context": "Community-based Malaria Case Management Guidelines for Health Extension Workers in Ethiopia."
+    },
+    {
+      "from": "node_5a66016c9373",
+      "to": "node_22810bcbd211",
+      "type": "TARGETS",
+      "source_name": "Case Management",
+      "target_name": "Malaria",
+      "context": "Community-based Malaria Case Management Guidelines for Health Extension Workers in Ethiopia."
+    },
+    {
+      "from": "node_894de210befc",
+      "to": "node_a2694bc1f355",
+      "type": "LOCATED_IN",
+      "source_name": "Health Extension Program",
+      "target_name": "Ethiopia",
+      "context": "Community-based Malaria Case Management Guidelines for Health Extension Workers in Ethiopia."
+    },
+    {
+      "from": "node_5a66016c9373",
+      "to": "node_a2694bc1f355",
+      "type": "LOCATED_IN",
+      "source_name": "Case Management",
+      "target_name": "Ethiopia",
+      "context": "Community-based Malaria Case Management Guidelines for Health Extension Workers in Ethiopia."
+    },
+    {
+      "from": "node_a88456c71bc8",
+      "to": "node_2dc573d6f077",
+      "type": "INVOLVED_IN",
+      "source_name": "health post",
+      "target_name": "RDT Diagnostics",
+      "context": "An operational manual detailing standard procedures for malaria rapid diagnostic testing (RDT) and artemether-lumefantrine treatment at the health post level."
+    },
+    {
+      "from": "node_1b2b3aae5035",
+      "to": "node_22810bcbd211",
+      "type": "TARGETS",
+      "source_name": "LLIN Program",
+      "target_name": "Malaria",
+      "context": "Assessment of Long-Lasting Insecticidal Net (LLIN) Ownership, Utilization, and Associated Barriers in Malaria-Endemic Communities of Ethiopia.."
+    },
+    {
+      "from": "node_1b2b3aae5035",
+      "to": "node_a2694bc1f355",
+      "type": "LOCATED_IN",
+      "source_name": "LLIN Program",
+      "target_name": "Ethiopia",
+      "context": "Assessment of Long-Lasting Insecticidal Net (LLIN) Ownership, Utilization, and Associated Barriers in Malaria-Endemic Communities of Ethiopia.."
+    },
+    {
+      "from": "node_af3fcc20cd58",
+      "to": "node_22810bcbd211",
+      "type": "TARGETS",
+      "source_name": "vector control",
+      "target_name": "Malaria",
+      "context": "Portable experimental hut tents (PEHTs): a conceptual framework for improved malaria vector control decision-making with a review of fixed experimental hut sites in Africa.."
+    }
+  ]
+}
