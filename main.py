@@ -23,7 +23,7 @@ def main():
         print("\n" + "="*70 + "\n")
         
     print("======================================================================")
-    print("Starting July Timeline: Data Collection & AI Screening Pipeline")
+    print("Data Collection & AI Screening Pipeline")
     print("======================================================================\n")
     
     # Ensure output directory exists
@@ -102,35 +102,35 @@ def main():
     print(f"    * Excluded by Semantic relevance criteria:  {semantic_failed}")
     print("="*70)
     
-    # 6. August Timeline: Information Extraction and Database creation
-    print("\n--- 3. August Timeline: Running Information Extraction (NER) & Database Creation ---")
-    db_path = os.path.join(args.output_dir, "health_ecosystem.db")
-    graph_path = os.path.join(args.output_dir, "health_ecosystem_graph.json")
+    # # 6. August Timeline: Information Extraction and Database creation
+    # print("\n--- 3. August Timeline: Running Information Extraction (NER) & Database Creation ---")
+    # db_path = os.path.join(args.output_dir, "health_ecosystem.db")
+    # graph_path = os.path.join(args.output_dir, "health_ecosystem_graph.json")
     
-    # Initialize structured database
-    init_database(db_path=db_path)
+    # # Initialize structured database
+    # init_database(db_path=db_path)
     
-    extractions_map = {}
-    print("Running NER and inferring relationships on included articles...")
-    for art in screened_articles:
-        if art.get("status") != "Included":
-            continue
-        art_id = art.get("id")
-        entities = extract_entities_from_article(art)
-        relationships = infer_relationships(entities)
-        print(f"  - [{art_id}] Extracted {len(entities)} entities, {len(relationships)} relationships.")
-        extractions_map[art_id] = {
-            "entities": entities,
-            "relationships": relationships
-        }
+    # extractions_map = {}
+    # print("Running NER and inferring relationships on included articles...")
+    # for art in screened_articles:
+    #     if art.get("status") != "Included":
+    #         continue
+    #     art_id = art.get("id")
+    #     entities = extract_entities_from_article(art)
+    #     relationships = infer_relationships(entities)
+    #     print(f"  - [{art_id}] Extracted {len(entities)} entities, {len(relationships)} relationships.")
+    #     extractions_map[art_id] = {
+    #         "entities": entities,
+    #         "relationships": relationships
+    #     }
         
-    print("\nStoring entities and relations in SQLite database...")
-    insert_extracted_data(screened_articles, extractions_map, db_path=db_path)
+    # print("\nStoring entities and relations in SQLite database...")
+    # insert_extracted_data(screened_articles, extractions_map, db_path=db_path)
     
-    print("Exporting database to Graph JSON nodes and edges representation...")
-    export_to_graph_json(db_path=db_path, output_path=graph_path)
+    # print("Exporting database to Graph JSON nodes and edges representation...")
+    # export_to_graph_json(db_path=db_path, output_path=graph_path)
     
-    print("\nJuly & August Timelines execution completed successfully!")
+    # print("\nJuly & August Timelines execution completed successfully!")
 
 if __name__ == "__main__":
     main()

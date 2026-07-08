@@ -1,5 +1,70 @@
 [
   {
+    "id": "pubmed_42406740",
+    "title": "Self-medication practice with anti-malarial drugs and its associated factors among patients with fever attending public health facilities in Dera District, Northwest Ethiopia.",
+    "authors": [
+      "Wondimnew Desalegn Addis",
+      "Agmas Wassie Abate",
+      "Negede Yiheyis Tasew",
+      "Amare Yirga Abate",
+      "Belete Asnake Sitotaw",
+      "Abay Semagn Kassie",
+      "Elelta Mulugeta Ayalew",
+      "Birhanemaskal Malkamu",
+      "Kindie Mitiku"
+    ],
+    "abstract": "BACKGROUND: The issue of self-medication with anti-malarial drugs is a critical public health challenge. Despite national guidelines promoting diagnostic-confirmed treatment, evidence addressing the prevalence of self-medication with anti-malarial drugs and drivers in Ethiopia is scarce. Therefore, this study aimed to bridge this gap and to provide meaningful insights into ongoing efforts to curb the misuse of anti-malarial drugs and helping the strategy of malaria eliminationby investigating the prevalence of self-medication with anti-malaria drugs and its associated factors. METHODS: An institution-based cross-sectional study was conducted in Dera District, Northwest Ethiopia, from June 1-30, 2025. A total of 591 febrile patients were selected using a stratified multistage sampling technique. Data were collected through interviewer-administered structured questionnaires developed by reviewing different related literatures. Data entry and analysis were done using Epi-Data version 4.6 and STATA 17. Multivariable binary logistic regression analysis was performed to identify factors associated with self-medication. Statistical significance was declared at a p-value less than 0.05. RESULT: The prevalence of self-medication with anti-malarial drugs was 42.8% (95% CI: 38.9%-46.8%). Factors positively associated with self-medication included: monthly income of ≥5000 ETB (AOR = 1.64, 95% CI: 1.04-2.59), poor knowledge about malaria (AOR = 1.68, 95% CI: 1.12-2.55), poor risk perception towards self-medication (AOR = 2.10, 95% CI: 1.40-3.14), and distance ≤5 km from private drug sellers (AOR = 1.65, 95% CI: 1.10-2.47). Community-based health insurance membership was negatively associated with self-medication (AOR = 0.60, 95% CI: 0.41-0.88). CONCLUSION: Self-medication with anti-malarial drugs was moderate (33.4%_66.6%) in the study area based on percentile classification. The findings highlighted the need for designing different strategies to reduce inappropriate drug use and promoting community-based health insurance enrollment.",
+    "date": "2026",
+    "journal": "PloS one",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42406740/",
+    "source": "PubMed"
+  },
+  {
+    "id": "pubmed_42396518",
+    "title": "Malaria prevalence and molecular markers of Plasmodium falciparum antimalarial drug resistance among mobile populations in malaria-endemic countries: A systematic review and meta-analysis.",
+    "authors": [
+      "Alex Mwesigwa",
+      "Dianah Fatima",
+      "Bienvenu Nsengimaana",
+      "Emmanuel Arineitwe",
+      "Alison A Kinengyere",
+      "Arthur Mpimbaza",
+      "Pauline Byakika-Kibwika",
+      "Sam M Mbulaiteye",
+      "Philip J Rosenthal",
+      "Samuel L Nsobya"
+    ],
+    "abstract": "Background Mobile populations in malaria-endemic regions are at increased risk of Plasmodium falciparum infection and may contribute to the spread of antimalarial drug resistance across borders. However, evidence on infection prevalence, molecular resistance markers, and associated risk factors in these populations remains limited. This systematic review and meta-analysis synthesized available evidence to inform mobility-responsive malaria surveillance and control strategies. Methods A systematic review and meta-analysis were conducted according to PRISMA 2020 guidelines. Studies published between January 2000 and October 2025 reporting P. falciparum infection and resistance-associated mutations in PfK13, PfCRT, PfMDR1, PfDHFR, and PfDHPS among mobile populations were included. PubMed, EMBASE, Global Health, and Scopus were searched. Two reviewers independently screened studies, extracted data, and assessed risk of bias. Pooled prevalence estimates were generated using random-effects models in Stata 17, with subgroup analyses by WHO region and population type. Heterogeneity was assessed using I² statistics. Results Twenty-six studies involving 7,217 participants from 10 countries were included. Populations studied comprised refugees, migrant workers, travellers, forest-goers, gold miners, and nomadic groups. The pooled prevalence of P. falciparum infection was 18% (95% CI: 15-21%), with higher prevalence in Africa (36%) and lower prevalence in South-East Asia (6%). Refugees had the highest pooled prevalence (38%), whereas short-term travellers had lower prevalence (8%). Resistance markers were widely reported, although prevalence varied across settings and time periods. PfK13 mutations were generally infrequent but heterogeneous; validated mutations such as C580Y were repeatedly detected in Myanmar and neighbouring areas of Cambodia and Vietnam, indicating artemisinin resistance hotspots. PfCRT K76T remained common in older studies. PfMDR1 mutations, especially N86Y and Y184F, were frequently reported and reached up to 68% in African refugee populations, although declining trends were noted in recent African studies. PfDHFR and PfDHPS mutations were widely distributed. Infection risk was associated with mobility patterns, occupational exposure, and parasite origin. Substantial heterogeneity was observed (I² = 97.8%). Conclusion Mobile populations bear a substantial burden of P. falciparum infection and frequently harbor antimalarial drug-resistance markers. Integrating these populations into genomic and cross-border surveillance systems may improve early detection of resistance and strengthen malaria elimination efforts.",
+    "date": "2026",
+    "journal": "Research square",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42396518/",
+    "source": "PubMed"
+  },
+  {
+    "id": "pubmed_42396318",
+    "title": "Survival differences and artemisinin resistance in severe malaria among HIV coinfected patients: data from Mozambique.",
+    "authors": [
+      "Irina Mendes de Sousa",
+      "Erin McArthur",
+      "Lúcia Chambal",
+      "Kevan Akrami",
+      "Annie N Cowell",
+      "Titos Buene",
+      "Robert T Schooley",
+      "Bharti Ajay",
+      "Constance A Benson",
+      "Ana Paula Arez",
+      "Marcelo U Ferreira",
+      "Elizabeth A Winzeler",
+      "Emília V Noormahomed"
+    ],
+    "abstract": "BACKGROUND: Malaria remains a significant cause of morbidity and mortality, especially in sub-Saharan Africa, where rates of HIV coinfection are high. This study aimed to determine whether Plasmodium falciparum malaria treatment outcomes and rates of antimalarial resistance markers differ according to HIV serostatus in Mozambique. METHODOLOGY: We conducted an observational study of non-pregnant adults, with and without HIV coinfection, admitted to the Hospital Central de Maputo for treatment of severe malaria. Plasmodium falciparum DNA was extracted from whole blood and sequenced to identify single-nucleotide polymorphisms. Statistical analyses to compare clinical outcomes and rates of nonsynonymous mutations in genes associated with drug resistance were performed in R version 4.2. RESULTS: We recruited 149 study participants aged between 18-62 years, 72 (48.3%) were female, and 59 (39.6%) were infected with HIV. Comparing clinical outcomes, we found a significant difference in anemia (hemoglobin <5 mg/dl: P-value = 0.01248) but no other predefined clinical characteristics including fever, renal dysfunction, or pulmonary edema in those with and without HIV coinfection. We found significantly higher in hospital mortality in those with HIV coinfection ( P -value = 0.03416, and at 30 days post discharge P -value = 0.007526). Mortality correlated inversely with CD4 count. Overall mortality at the end of the study was 20.1%. We did not find a significant increase in the number of nonsynonymous mutations in known antimalarial resistance associated genes pfmdr1 , pfcrt , pfdhfr , pfdhps , in patients who reported taking antimalarials prior to admission or in those with HIV coinfection. However, we did find an increase in rates of K189T pfkelch mutations (21.2% vs 2.7%, p = 0.022) in HIV infected patients. We found no increase in rates of nonsynonymous mutations in pfdhfr in HIV infected patients taking TMP-SMX prophylaxis: pfdhfr-pfdhps quintuple mutations were found in almost 100% of the parasite population. CONCLUSIONS: We find a higher mortality rate in patients with malaria-HIV coinfection, further emphasizing the importance of effective treatment for this vulnerable population. We also provide an important baseline for the rate of resistance-conferring mutations in a population at risk of harboring resistant parasites in Mozambique, highlighting the need for continued surveillance.",
+    "date": "2026",
+    "journal": "medRxiv : the preprint server for health sciences",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42396318/",
+    "source": "PubMed"
+  },
+  {
     "id": "pubmed_42388884",
     "title": "Assessment of Bedside-Adaptable Models to Predict Molecular Sepsis Subtypes in a Resource-Limited Setting: A Multicenter Analysis from Uganda.",
     "authors": [
@@ -324,56 +389,6 @@
     "source": "PubMed"
   },
   {
-    "id": "pubmed_42354483",
-    "title": "Integrated Service Delivery Models for Triple Elimination of Mother to Child Transmission of Human Immunodeficiency Virus, Syphilis, and Hepatitis B Virus: A Global Systematic Review and Meta-Analysis.",
-    "authors": [
-      "Victor Abiola Adepoju",
-      "Abdulrakib Abdulrahim",
-      "Qorinah Estiningtyas Sakilah Adnani",
-      "Shankar Biswas",
-      "Safayet Jamil",
-      "Uthman Okikiola Adebayo"
-    ],
-    "abstract": "BACKGROUND AND OBJECTIVES: Despite global commitment to the World Health Organization triple elimination initiative, evidence on integrated antenatal service delivery models that simultaneously address human immunodeficiency virus (HIV), syphilis, and hepatitis B virus (HBV) remains fragmented, particularly across diverse health-system contexts. Eliminating vertical transmission of HIV, syphilis, and HBV is a global priority. Pregnant women are disproportionately affected by these infections, and untreated maternal disease leads to significant infant morbidity. Integrating antenatal screening and treatment provides an opportunity to address all three conditions simultaneously. PURPOSE: This systematic review and meta-analysis aimed to identify and synthesise evidence on integrated antenatal service delivery models addressing HIV, syphilis, and HBV simultaneously within maternal health services. It specifically examined model characteristics, screening uptake, treatment and follow-up outcomes, implementation barriers and facilitators, and evidence on cost-effectiveness. METHODS: This systematic review and meta-analysis followed PRISMA 2020 guidelines and was registered in PROSPERO (CRD420261342186). We searched Scopus, PubMed, Web of Science, and Dimensions for studies published between January 2007 and January 2026. Of 423 records identified, 11 met the inclusion criteria after excluding two studies that did not provide empirical results for an integrated service model addressing all three target infections simultaneously. Data on study characteristics, service delivery, diagnostics, outcomes, and implementation factors were extracted. A random-effects meta-analysis of proportions was conducted using the DerSimonian-Laird estimator with logit transformation. RESULTS: Eleven studies covered Asia, Africa, Europe, and Latin America, mostly in low- and lower-middle-income countries. Integration ranged from rapid test packages in community clinics to comprehensive programmes including STI treatment, malaria testing, and HBV birth-dose vaccination. Pooled triple testing uptake was 97% (95% CI 92 to 100%). Large programmes achieved over 99% coverage and reduced HIV vertical transmission to below 3%. Pilot studies showed feasibility but noted stockouts, data gaps, and weak treatment linkage. Economic analyses supported cost-effectiveness. CONCLUSIONS: Integrated antenatal services appear feasible and can achieve high testing uptake, particularly in well-supported programmes. However, evidence remains uneven regarding treatment completion, infant follow-up, HBV prophylaxis, long-term transmission outcomes, and sustainability in resource-constrained settings. Key challenges include supply constraints, workforce limitations, and follow-up gaps. Future research should evaluate the full care cascade, not screening uptake alone.",
-    "date": "2026",
-    "journal": "Healthcare (Basel, Switzerland)",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42354483/",
-    "source": "PubMed"
-  },
-  {
-    "id": "pubmed_42353254",
-    "title": "Ethnobotany, Phytochemistry, and Pharmacological Activities of Ocimum Species in Low- and Middle-Income Countries: A Systematic Review.",
-    "authors": [
-      "Chikondi Maluwa",
-      "Blecious Zinan'dala",
-      "Hataichanok Chuljerm",
-      "Wason Parklak",
-      "Kanokwan Kulprachakarn"
-    ],
-    "abstract": "Ocimum species (family Lamiaceae) are among the most extensively utilized medicinal plants across low- and middle-income countries (LMICs), yet their pharmacological evidence base has not been comprehensively synthesized within an LMIC healthcare framework. A systematic review was conducted following PRISMA 2020 guidelines and a prospectively registered protocol (PROSPERO). Five electronic databases, PubMed, Scopus, Embase, Web of Science, and Google Scholar, were searched from January 2010 to December 2025. Studies reporting ethnobotanical, phytochemical, or pharmacological data on any Ocimum species were eligible. The study selection, quality assessment and data extraction were done by two independent reviewers utilizing Rayyan software. Findings were synthesized using a narrative approach. Ninety-seven studies were included. O. basilicum, O. tenuiflorum, and O. gratissimum were most studied. Key bioactive constituents rosmarinic acid, eugenol, linalool, β-caryophyllene, and ursolic acid, demonstrated consistent antimicrobial [minimum inhibitory concentration (MIC): 0.31-1.25 mg/mL], antioxidant [2,2-diphenyl-1-picrylhydrazyl (DPPH) IC50: 12.5-89.3 µg/mL], anti-inflammatory (35-55% edema reduction), and antidiabetic (α-glucosidase IC50: 0.3-1.5 mg/mL) activities. Larvicidal efficacy exceeding 90% against Anopheles spp. was demonstrated in field trials. The safety profile was broadly favorable (LD50 > 5000 mg/kg). Ocimum species represent a pharmacologically credible and preclinically well-supported botanical resource with practical relevance for LMIC health systems, particularly in antimicrobial, antidiabetic, anti-inflammatory, and vector-control applications. To realize their therapeutic potential, future research must prioritize LMIC-contextualized randomized controlled trials, standardized phytochemical reporting, and chemotype-aware product development.",
-    "date": "2026",
-    "journal": "International journal of molecular sciences",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42353254/",
-    "source": "PubMed"
-  },
-  {
-    "id": "pubmed_42352370",
-    "title": "Molecular Determinants of O'Nyong-Nyong Virus Infection in Mammalian Hosts and Anopheles Mosquitoes.",
-    "authors": [
-      "Zhiyuan Liu",
-      "Xia Li",
-      "Hanwen Hu",
-      "Shangyu Xiao",
-      "Jianli Tao",
-      "Jing Yang"
-    ],
-    "abstract": "O'nyong-nyong virus (ONNV) is a mosquito-borne alphavirus responsible for large-scale epidemics in sub-Saharan Africa. As the closest evolutionary relative of Chikungunya virus (CHIKV), ONNV shares substantial genetic similarity and overlapping clinical manifestations with CHIKV. Mechanistic understanding of ONNV infection has therefore largely been extrapolated from CHIKV rather than directly established. However, ONNV exhibits distinct biological features, including predominant transmission by Anopheles mosquitoes and a clinical presentation characterized by prominent lymphadenopathy with limited acute joint edema. These distinctions underscore the need for an integrated synthesis of experimentally validated determinants of ONNV infection. In this review, we summarize current evidence on molecular and immunological factors regulating ONNV infection in mammalian hosts and mosquito vectors. We first discuss species-specific viral clearance, host dependency factors, intrinsic antiviral restriction mechanisms, protective innate immunity, inflammatory pathology, and mechanism-informed therapeutic strategies in mammalian hosts. We then examine stage-specific immune regulation in Anopheles mosquitoes, emphasizing mechanisms that constrain viral replication while permitting persistent infection and transmission. Finally, we discuss nsP3-dependent vector specificity and the potential contribution of alternative mosquito species to ONNV ecology. Together, this review provides an integrated framework for understanding how host factors, immune responses, and vector-specific adaptations shape ONNV infection, pathogenesis, and transmission.",
-    "date": "2026",
-    "journal": "Biomolecules",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42352370/",
-    "source": "PubMed"
-  },
-  {
     "id": "scopus_85123456789",
     "title": "Mapping stakeholders and community networks for malaria prevention in East Africa: A social network analysis",
     "authors": [
@@ -645,43 +660,42 @@
     "source": "WHO IRIS"
   },
   {
-    "id": "ephi_reg_001",
-    "title": "Evidence Brief for Malaria Burden and Control Programs in Ethiopia: A Subnational Level Review",
+    "id": "pubmed_42410559",
+    "title": "Assessment of Long-Lasting Insecticidal Net (LLIN) ownership, utilization, and associated barriers in malaria-endemic communities of Ethiopia.",
     "authors": [
-      "National Data Management Center for Health (NDMC)",
-      "Ethiopian Public Health Institute (EPHI)"
+      "Abate Waldetensai",
+      "Geremew Tasew",
+      "Delenasaw Yewhalaw",
+      "Habte Tekie",
+      "Bokretsion G Brhane",
+      "Solomon Kinde",
+      "Fekadu Gemechu",
+      "Selam Yirga",
+      "Esayas Kinfe",
+      "Alemnesh Hailemariam",
+      "Henok Tadesse",
+      "Hiwot Solomon",
+      "Gudissa Assefa",
+      "Dereje Dilu",
+      "Seife Bashaye",
+      "Yonas Wuletaw",
+      "Bedri Abdulatif",
+      "Tilahun Kebede",
+      "Samson Tadiwos",
+      "Gashaw Gebrewold",
+      "Samuel Hailu",
+      "Fitsum Tesfaye",
+      "Getachew Tollera",
+      "Messay Hailu",
+      "Yan Guiyun",
+      "Araya Eukubay",
+      "Araya Gebresillassie"
     ],
-    "abstract": "This evidence brief provides a detailed analysis of malaria incidence, prevalence, and control strategies across the regional states of Ethiopia. It highlights the role of community health extension workers in executing local insecticide-treated net distributions and indoor residual spraying, with focus on stakeholder collaboration in high-risk zones.",
-    "date": "2024-03-15",
-    "journal": "EPHI Evidence Briefs & Policy Reports",
-    "url": "https://ndmc.ephi.gov.et/publications/malaria-burden-brief-2024",
-    "source": "EPHI Registry"
-  },
-  {
-    "id": "ephi_reg_002",
-    "title": "Ethiopia National Malaria Indicator Survey (EMIS) 2023: Community-based Intervention Coverage",
-    "authors": [
-      "Ethiopian Public Health Institute (EPHI) Partners",
-      "Ministry of Health Ethiopia"
-    ],
-    "abstract": "A nationwide survey evaluating the ownership and utilization of long-lasting insecticidal nets (LLINs) and coverage of indoor residual spraying. The report details regional variations, stakeholder mapping of local NGOs executing malaria prevention campaigns, and efficacy of district-level community mobilization.",
-    "date": "2023-11-20",
-    "journal": "EPHI National Surveys",
-    "url": "https://ndmc.ephi.gov.et/publications/emis-2023-report",
-    "source": "EPHI Registry"
-  },
-  {
-    "id": "ephi_reg_003",
-    "title": "Community-based Malaria Case Management Guidelines for Health Extension Workers in Ethiopia",
-    "authors": [
-      "Ethiopian Public Health Institute (EPHI)",
-      "Disease Control Directorate"
-    ],
-    "abstract": "An operational manual detailing standard procedures for malaria rapid diagnostic testing (RDT) and artemether-lumefantrine treatment at the health post level. It provides the framework for community-based health extension packages in rural districts.",
-    "date": "2021-06-10",
-    "journal": "EPHI Guidelines and Manuals",
-    "url": "https://ndmc.ephi.gov.et/publications/hew-malaria-guidelines",
-    "source": "EPHI Registry"
+    "abstract": "BACKGROUND: Malaria remains a critical global health challenge, with over 68% of Ethiopia's population living in at-risk areas. While Long-Lasting Insecticidal Nets (LLINs) are a cornerstone of prevention, their effectiveness depends on consistent use. This study aimed to assess LLIN ownership and utilization patterns and identify socio-behavioral and physical determinants of their effectiveness in endemic communities. METHODS: A community-based, cross-sectional survey was conducted from October 2024 to January 2025 across 11 administrative regions in Ethiopia. Using a two-stage stratified cluster sampling technique, data were collected from 9,222 households (34,427 individuals) through face-to-face interviews and direct physical observations. Data analysis was performed using the SPSS Complex Samples module and hierarchical multivariable logistic regression. RESULTS: The survey found a household LLIN ownership rate of 71.5%, while the proportion of sufficient LLINs for every two people was 58.3%. Among those who owned nets, the overall utilization rate was 59.9%, with significantly higher rates in rural areas (72.7%) than in urban areas. Vulnerable groups achieved higher usage levels, specifically pregnant women (78.5%) and children under five (67.2%). Multivariable analysis identified age and pregnancy status as significant predictors of LLIN use. Pregnant women had the highest utilization rate (78.5%), with about twice the odds of net use compared with non-pregnant women (OR = 2.03, 95% CI: 1.7-2.38, p < 0.001). Similarly, adults aged 25-49 years had 1.8 times higher odds of net use compared to individuals in the baseline age group (OR = 1.81, 95% CI: 1.63-2.02, p < 0.001). Major barriers to consistent utilization included limited confidence in hanging nets (60.5%, p < 0.001) and the widespread misconception (64.1%) that malaria risk is confined to the rainy season. CONCLUSION: Although Ethiopia has made strides in LLIN ownership and prioritized protection for vulnerable demographics, overall utilization remains below the 80% threshold required for community-wide protection. To bridge the gap between ownership and consistent use, national strategies should transition toward skill-based interventions and targeted communication to address practical barriers and seasonal misconceptions.",
+    "date": "2026",
+    "journal": "BMC public health",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42410559/",
+    "source": "EPHI (PubMed)"
   },
   {
     "id": "pubmed_42350554",
@@ -759,44 +773,6 @@
     "date": "2026",
     "journal": "BMC infectious diseases",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42177459/",
-    "source": "EPHI (PubMed)"
-  },
-  {
-    "id": "pubmed_42078884",
-    "title": "Assessment of Long-Lasting Insecticidal Net (LLIN) Ownership, Utilization, and Associated Barriers in Malaria-Endemic Communities of Ethiopia.",
-    "authors": [
-      "Abate Waldetensai",
-      "Geremew Tasew",
-      "Delenesaw Yewhalaw",
-      "Habte Takie",
-      "Bokretsion Gidey",
-      "Solomon Kinde",
-      "Fekadu Gemechu",
-      "Selam Yirga",
-      "Esayas Kinfe",
-      "Alemnesh Hailemariam",
-      "Henok Tadesse",
-      "Hiwot Solomon",
-      "Gudissa Assefa",
-      "Dereje Dilu",
-      "Seife Bashaye",
-      "Yonas Wuletaw",
-      "Bedri Abdulatif",
-      "Tilahun Kebede",
-      "Samson Tadiwos",
-      "Gashaw Gebrewold",
-      "Samuel Hailu",
-      "Fitsum Tesfaye",
-      "Getachew Tollera",
-      "Messay Hailu",
-      "Yan Guiyun",
-      "Araya Eukubay",
-      "Araya Gebresillassie"
-    ],
-    "abstract": "BACKGROUND: Malaria remains a critical global health challenge, with over 68% of Ethiopia's population living in at-risk areas. While Long-Lasting Insecticidal Nets (LLINs) are a cornerstone of prevention, their effectiveness depends on consistent use. This study aimed to assess LLIN ownership and utilization patterns and identify socio-behavioral and physical determinants of their effectiveness in endemic communities. METHODS: A community-based, cross-sectional survey was conducted from October 2024 to January 2025 across 11 administrative regions in Ethiopia. Using a two-stage stratified cluster sampling technique, data were collected from 9,222 households (34,427 individuals) through face-to-face interviews and direct physical observations. Data analysis was performed using the SPSS Complex Samples module and hierarchical multivariable logistic regression. RESULTS: The survey found a household LLIN ownership rate of 71.5%, while the proportion of sufficient LLINs for every two people was 58.3%. Among those who owned nets, the overall utilization rate was 59.9%, with significantly higher rates in rural areas (72.7%) than in urban areas. Vulnerable groups achieved higher usage levels, specifically pregnant women (78.5%) and children under five (67.2%). Multivariable analysis indicated that age and pregnancy status were the strongest predictors of LLIN use, with ORs of 0.258 (p < 0.001) and 0.662 (p < 0.001), respectively. Major barriers identified included a 60.5% lack of confidence in hanging nets (p < 0.001) and a widespread misconception (64.1%) that malaria risk is restricted to the rainy season. CONCLUSION: Although Ethiopia has made strides in LLIN ownership and prioritized protection for vulnerable demographics, overall utilization remains below the 80% threshold required for community-wide protection. To bridge the gap between ownership and consistent use, national strategies should transition toward skill-based interventions and targeted communication to address practical barriers and seasonal misconceptions.",
-    "date": "2026",
-    "journal": "Research square",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42078884/",
     "source": "EPHI (PubMed)"
   },
   {

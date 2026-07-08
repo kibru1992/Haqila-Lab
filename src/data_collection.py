@@ -308,7 +308,7 @@ def fetch_scopus(limit=20):
     Ingest from Scopus. Requires SCOPUS_API_KEY environment variable.
     If not set, falls back to a realistic mock dataset.
     """
-    scopus_key = os.environ.get("SCOPUS_API_KEY")
+    scopus_key = os.environ.get("6b601aa61704b6c8fcc78974474aa676")
     if not scopus_key:
         print("\n[WARNING] SCOPUS_API_KEY is not set. Falling back to simulated Scopus dataset.")
         return get_mock_scopus_data()

@@ -41,7 +41,7 @@ INCLUSION_KEYWORDS_GEO = ["ethiopia", "sub-saharan", "africa", "east africa", "l
 # API endpoints
 AJOL_BASE_URL = "https://www.ajol.info/index.php/index/search/search"
 WHO_IRIS_API_URL = "https://iris.who.int/server/api/discover/search/objects"
-SCOPUS_API_URL = "https://api.elsevier.com/content/search/scopus"
+SCOPUS_API_URL = "6b601aa61704b6c8fcc78974474aa676"
 
 # Headers for HTTP requests to prevent 403 Forbidden responses
 DEFAULT_HEADERS = {
