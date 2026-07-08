@@ -1,7 +1,7 @@
 # Haqila Lab: AI for Health Ecosystem Mapping & Systematic Review Research
-## July Timeline: Data Collection & AI Pipeline Setup
+## Data Collection & AI Pipeline Setup
 
-This repository contains the programmatic literature data collection and NLP-based initial keyword and semantic filtering pipeline designed for the **July Timeline** deliverables of the Haqila Lab Research Internship Program.
+This repository contains the programmatic literature data collection and NLP-based initial keyword and semantic filtering pipeline designed for the deliverables of the Haqila Lab Research Internship Program.
 
 ### Project Context
 * **Health Domain**: Community-based Infectious Disease (Malaria).
@@ -28,20 +28,6 @@ Each article undergoes a two-stage screening pipeline:
 2. **Semantic Similarity Screening**:
    - Computes cosine similarity between (title + abstract) and target review criteria using the `all-MiniLM-L6-v2` SentenceTransformer model.
    - If the similarity is above the threshold (default `0.40`), it is marked as `Included` for detailed synthesis. Otherwise, it is `Excluded`.
-
-3. **August Timeline: Information Extraction & Named Entity Recognition (NER)**:
-   - For all `Included` articles, the pipeline runs a **hybrid NER extractor** to identify:
-     - **Diseases & Vectors**: Malaria, Plasmodium species, Anopheles mosquitoes.
-     - **Stakeholders**: Ministry of Health, EPHI, NDMC, WHO, USAID, CDC, etc.
-     - **Locations**: Ethiopian administrative regional states (Amhara, Oromia, Tigray, SNNPR, Southwest Ethiopia, etc.), cities, and specific health clinics.
-     - **Programs & Interventions**: LLIN distribution, Indoor Residual Spraying (IRS), Rapid Diagnostic Testing (RDT), Health Extension Workers (HEW) case management.
-   - Automatically **infers relationships** (e.g. `INVOLVED_IN`, `LOCATED_IN`, `TARGETS`) between entities based on sentence-level co-occurrence.
-
-4. **August Timeline: Relational & Graph Database Structuring**:
-   - Initializes a local relational **SQLite** database (`data/health_ecosystem.db`) mapping the articles, nodes (entities), and edges (relationships).
-   - Exports the populated structure into a standardized **Graph JSON** format (`data/health_ecosystem_graph.json`) containing nodes and edges arrays for easy visualization and future import into Neo4j.
-
----
 
 ### Project Structure
 ```
