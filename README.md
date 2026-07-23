@@ -1,4 +1,4 @@
-# Haqila Lab: Automated Literature Screening and Ecosystem Mapping for Malaria: An NLP Alternative to Manual Systematic Reviews
+# Title: Automated Literature Screening and Ecosystem Mapping for Malaria: An NLP Alternative to Manual Systematic Reviews
 ## Data Collection & AI Pipeline Setup
 
 This repository contains the programmatic literature data collection and NLP-based initial keyword and semantic filtering pipeline designed for the deliverables of the Haqila Lab Research Internship Program.
